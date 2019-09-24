@@ -1,0 +1,5 @@
+<!--p------ages/home/home.wxml-->
+<text class="title">Hello</text>
+<button size="mini">按钮</button>
+<view>1.知识点1</view>
+<view>lou</view>
